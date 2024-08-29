@@ -1,9 +1,29 @@
 [
   {
+    "listing": "/conferences.html",
+    "items": [
+      "/conferences/conference.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/paper.html",
+      "/papers/second_paper.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/summer_project.html",
+      "/projects/research_project.html"
+    ]
+  },
+  {
     "listing": "/blog.html",
     "items": [
-      "/posts/post.html",
-      "/posts/another_post.html"
+      "/posts/another_post.html",
+      "/posts/post.html"
     ]
   }
 ]
