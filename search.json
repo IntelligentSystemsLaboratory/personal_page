@@ -81,7 +81,7 @@
     "href": "index.html",
     "title": "CDT student homepage",
     "section": "",
-    "text": "My name is A.N. Other and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence.\nThis website is authored in (Quarto)[https://quarto.org/docs/websites]."
+    "text": "My name is A.N. Other and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research, ongoing projects, publications, and other AI-related activities.\nThis website is authored in Quarto."
   },
   {
     "objectID": "posts/post.html",
