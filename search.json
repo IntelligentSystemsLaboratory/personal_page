@@ -7,22 +7,22 @@
     "text": "First Conference\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/another_post.html",
-    "href": "posts/another_post.html",
-    "title": "Blogpost Example",
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "Another blogpost example",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Papers",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CDT student homepage",
     "section": "",
-    "text": "First paper\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond paper\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My name is A.N. Other and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research, ongoing projects, publications, and other AI-related activities.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\nThis website is authored in Quarto."
   },
   {
-    "objectID": "papers/second_paper.html",
-    "href": "papers/second_paper.html",
+    "objectID": "publications/second_paper.html",
+    "href": "publications/second_paper.html",
     "title": "Second paper",
     "section": "",
     "text": "This is my second paper."
@@ -70,24 +70,24 @@
     "text": "At the end of the Foundation Year I carry out a pilot project for the PhD proper. Mine is about …"
   },
   {
-    "objectID": "papers/paper.html",
-    "href": "papers/paper.html",
+    "objectID": "publications/paper.html",
+    "href": "publications/paper.html",
     "title": "First paper",
     "section": "",
     "text": "This is my first paper."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CDT student homepage",
-    "section": "",
-    "text": "My name is A.N. Other and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research, ongoing projects, publications, and other AI-related activities.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\nThis website is authored in Quarto."
-  },
-  {
-    "objectID": "posts/post.html",
-    "href": "posts/post.html",
-    "title": "Another blogpost example",
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "I have (co-)authored the following workshop, conference and journal papers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSecond paper\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst paper\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

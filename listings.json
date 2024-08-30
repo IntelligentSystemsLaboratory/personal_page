@@ -6,13 +6,6 @@
     ]
   },
   {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/paper.html",
-      "/papers/second_paper.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/research_project.html",
@@ -24,6 +17,13 @@
     "items": [
       "/posts/another_post.html",
       "/posts/post.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/second_paper.html",
+      "/publications/paper.html"
     ]
   }
 ]
