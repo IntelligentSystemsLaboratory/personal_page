@@ -7,10 +7,10 @@
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/events.html",
     "items": [
-      "/blogposts/another_post.html",
-      "/blogposts/post.html"
+      "/events/NeurIPS24.html",
+      "/events/BIAS25.html"
     ]
   },
   {
@@ -21,7 +21,10 @@
     ]
   },
   {
-    "listing": "/events.html",
-    "items": []
+    "listing": "/blog.html",
+    "items": [
+      "/blogposts/another_post.html",
+      "/blogposts/post.html"
+    ]
   }
 ]
