@@ -74,7 +74,7 @@
     "href": "publications/paper.html",
     "title": "First paper",
     "section": "",
-    "text": "This is my first paper."
+    "text": "This is my first paper.\n(Smith and Doe 2024)\n\nReferences\n\n\nSmith, John, and Jane Doe. 2024. “Advances in AI Technology.” Journal of Artificial Intelligence 12 (3): 245–60. https://doi.org/10.1234/jaitechnology.2024.0312."
   },
   {
     "objectID": "posts/another_post.html",
