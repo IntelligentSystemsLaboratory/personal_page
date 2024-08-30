@@ -1,8 +1,16 @@
 [
   {
-    "listing": "/conferences.html",
+    "listing": "/publications.html",
     "items": [
-      "/conferences/conference.html"
+      "/publications/paper.html",
+      "/publications/paper2.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blogposts/another_post.html",
+      "/blogposts/post.html"
     ]
   },
   {
@@ -13,17 +21,7 @@
     ]
   },
   {
-    "listing": "/blog.html",
-    "items": [
-      "/posts/another_post.html",
-      "/posts/post.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/paper.html",
-      "/publications/paper2.html"
-    ]
+    "listing": "/events.html",
+    "items": []
   }
 ]
