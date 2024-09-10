@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/summer_project.html",
+      "/projects/research_project.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/publications/paper.html",
@@ -9,22 +16,15 @@
   {
     "listing": "/events.html",
     "items": [
-      "/events/NeurIPS24.html",
-      "/events/BIAS25.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/research_project.html",
-      "/projects/summer_project.html"
+      "/events/BIAS25.html",
+      "/events/NeurIPS24.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
-      "/blogposts/another_post.html",
-      "/blogposts/post.html"
+      "/blogposts/post.html",
+      "/blogposts/another_post.html"
     ]
   }
 ]
