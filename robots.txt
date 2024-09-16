@@ -1,1 +1,1 @@
-Sitemap: https://IntelligentSystemsLaboratory.github.io/personal_page/sitemap.xml
+Sitemap: https://PracticeOrientedAICDT.github.io/personal_page/sitemap.xml
