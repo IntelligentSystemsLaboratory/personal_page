@@ -1,30 +1,30 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/summer_project.html",
-      "/projects/research_project.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/paper.html",
-      "/publications/paper2.html"
-    ]
-  },
-  {
     "listing": "/events.html",
     "items": [
-      "/events/BIAS25.html",
-      "/events/NeurIPS24.html"
+      "/events/NeurIPS24.html",
+      "/events/BIAS25.html"
     ]
   },
   {
     "listing": "/blog.html",
     "items": [
-      "/blogposts/post.html",
-      "/blogposts/another_post.html"
+      "/blogposts/another_post.html",
+      "/blogposts/post.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/research_project.html",
+      "/projects/summer_project.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/paper2.html",
+      "/publications/paper.html"
     ]
   }
 ]
