@@ -4,7 +4,7 @@
 
 This is a repository that contains a personal page template for Pro-AI CDT students. The repository contains a basic [Quarto](https://quarto.org/) web application and a GitHub action to update and deploy at every successful push in your local repository.
 
-Its recomended to hava at least an overview about Quarto and how qmd files work [here](https://quarto.org/) .
+It's recommended to have at least an overview about Quarto and how .qmd files work [here](https://quarto.org/) .
 
 ## Quarto Markdown 
 
@@ -16,7 +16,7 @@ More information [here](https://quarto.org/docs/authoring/markdown-basics.html)
 
 ### _quarto.yml
 
-The _quarto.yml file is essential for configuring and managing Quarto projects. It serves as a central configuration file where you can define global settings and options for the entire project. This simplifies project organization, customization, and the generation of outputs across multiple documents.
+The _quarto.yml file is essential for configuring and managing Quarto projects. It serves as a central configuration file where you can define global settings and options for the entire project. This simplifies project organisation, customisation, and the generation of outputs across multiple documents.
 
 More information [here](https://quarto.org/docs/projects/profiles.html#profile-configuration)
 
@@ -50,7 +50,7 @@ To create new entries, complete each of the pre-populated sections with the rele
 
 ### Papers
 
-This section provides details about the papers you have written during your PhD. Each entry in the listing is created by adding new .qmd files to the publications folder. To organize your entries, refer to the examples within the folder.
+This section provides details about the papers you have written during your PhD. Each entry in the listing is created by adding new .qmd files to the publications folder. To organise your entries, refer to the examples within the folder.
 
 ### Conferences
 
@@ -59,3 +59,15 @@ This section is intended for sharing your experiences from conferences attended 
 ### Blog
 
 You can also write blog posts about your experiences as a PhD student in the Pro-AI CDT. To create a new post, simply add a `.qmd` file to the blogposts folder. Follow the sample entries in the folder for guidance on structuring your posts.
+
+## Setting up your personal page
+
+To setup your personal page do the following steps:
+
+  - Install quarto on your machine. You can find the CLI [here](https://quarto.org/docs/get-started/).
+  - Fork this repository.
+  - Clone **your** fork to your local machine.
+  - Open the terminal/shell on the repository folder and run "git pull", for the latest updates.
+  - Update the sections Home, Projects, Research, Papers, Conferences and Blog.
+  - On the terminal/shell run "quarto publish" and chose to publish the page using Github Pages.
+  - EXTRA: You can change the theme, add links and icons to your sidebar and create new sections. 
